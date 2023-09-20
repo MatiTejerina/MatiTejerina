@@ -2,7 +2,7 @@
 
 ### :computer: About Me
 
-I am passionate about coding, data analysis, and machine learning. I primarily work with Python and SQL, focusing on financial time series analysis, descriptive statistics, and building prediction models with both machine learning and Bayesian probability. I have also created algorithmic trading systems as well as their real-time implementation in brokers. With 1+ years of experience as a data scientist, I have collaborated in various projects ranging from data engineering to model deployment.
+I am passionate about coding, data analysis, and machine learning. I primarily work with Python and SQL, focusing on time series analysis, descriptive statistics, and building prediction models with both machine learning and Bayesian probability. I have also created algorithmic trading systems as well as their real-time implementation in brokers. With 1+ years of experience as a data scientist, I have collaborated in various projects ranging from data engineering to model deployment.
 
 ### :octocat: Projects
 
