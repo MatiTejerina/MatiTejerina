@@ -1,24 +1,12 @@
-## Hi there 👋, I'm Matias Tejerina!
+## Hi 👋, I'm Matias Tejerina!
 
 ### :computer: About Me
 
-I am a GitHub user who is passionate about coding, data analysis, and machine learning. I primarily work with Python and Jupyter Notebook, focusing on financial time series analysis, descriptive statistics, and building prediction models with both machine learning and Bayesian probability. With 2 years of experience as a data scientist, I have collaborated in various projects ranging from data engineering to model deployment.
-
-### :man_technologist: GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiastca&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiastca&layout=compact)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=matiastca)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=matiastca)](https://git.io/streak-stats)
+I am passionate about coding, data analysis, and machine learning. I primarily work with Python and SQL, focusing on financial time series analysis, descriptive statistics, and building prediction models with both machine learning and Bayesian probability. I have also created algorithmic trading systems as well as their real-time implementation in brokers. With 2 years of experience as a data scientist, I have collaborated in various projects ranging from data engineering to model deployment.
 
 ### :octocat: Projects
 
 I have created several public repositories that highlight my interests and passion for coding. Here are a few of them:
-
-- [Python Prep](https://github.com/matiastca/Python_Prep): A repository dedicated to practicing Python programming for beginners. It provides exercises and solutions to help sharpen Python coding skills.
 
 - [Crypto_Project](https://github.com/matiastca/Crypto_Project): This project focuses on analyzing cryptocurrency data and implementing trading strategies. It includes techniques such as sentiment analysis, price prediction, and trading bot implementation.
 
@@ -32,9 +20,8 @@ For a comprehensive list of my projects and contributions, please visit my GitHu
 
 If you have any questions or would like to collaborate on projects related to data analysis, machine learning, or programming, feel free to reach out to me:
 
-- Email: matias.tejerina@example.com
-- LinkedIn: [Matias Tejerina](https://www.linkedin.com/in/matias-tejerina/)
-- Twitter: [@matiastca](https://twitter.com/matiastca)
+- Email: matiastejerina.098@gmail.com
+- LinkedIn: [Matias Tejerina](https://www.linkedin.com/in/juan-matias-tejerina-calalanis-a09575274/)
 
 ### Conclusion
 
