@@ -21,7 +21,7 @@ For a comprehensive list of my projects and contributions, please visit my GitHu
 If you have any questions or would like to collaborate on projects related to data analysis, machine learning, or programming, feel free to reach out to me:
 
 - Email: matiastejerina.098@gmail.com
-- LinkedIn: [Matias Tejerina](https://www.linkedin.com/in/juan-matias-tejerina-calalanis-a09575274/)
+- LinkedIn: [Matias Tejerina](https://www.linkedin.com/in/matiastejerina/)
 
 ### Conclusion
 
